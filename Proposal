@@ -1,0 +1,21 @@
+Capstone 2 Proposal
+
+Focus- I think this app will be evenly focused on front and back end
+
+Type Will this be a website? A mobile app?- I think it will eventually be a mobile app as that is where its application would make most sense.
+For now I think it will be a web app, though i am open to that changing depending on how involved it will be.
+
+Goal What goal will your project be designed to achieve?- The goal is to life easier for New Yorkers by providing them with a tool they can use when they need
+to use a public restroom. It will tell them the bathroom locations, how many stalls, if its accessible, and more.
+
+Users What kind of users will visit your app? In other words, what is
+the demographic of your users?- I can't see teenagers or children using this, so I would say 18+. People that are on the go and it would definitely be useful for tourists.
+
+Data What data do you plan on using? How are you planning on
+collecting your data?- https://data.cityofnewyork.us/City-Government/Public-Restrooms/i7jb-7jku/about_data NYC has an api that provides data on bathroom locatations,
+accessibility, opration hours, cleanliness grades. All sorts of info.
+
+Features-
+-List of top 5 cleanest bathrooms (could even break it down by borough)
+-Allow users to save bathrooms they go to frequently
+-Ability to review bathrooms
